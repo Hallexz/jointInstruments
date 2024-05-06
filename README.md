@@ -1,4 +1,4 @@
-# Collaborative Text Editor with Melody
+# joint Instruments. Collaborative Text Editor with Melody
 
 This is a simple collaborative text editor application built using the Melody WebSocket library in Go.
 
@@ -15,12 +15,12 @@ This is a simple collaborative text editor application built using the Melody We
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/collaborative-text-editor.git
+   git clone https://github.com/Hallexz/jointInstruments.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd collaborative-text-editor
+   cd jointInstruments
    ```
 
 3. Build the application:
@@ -51,12 +51,12 @@ You can also run the application using Docker:
 
 1. Build the Docker image:
    ```
-   docker build -t collaborative-text-editor .
+   docker build -t jointInstruments .
    ```
 
 2. Run the Docker container:
    ```
-   docker run -p 5000:5000 collaborative-text-editor
+   docker run -p 5000:5000 jointInstruments
    ```
 
 3. Open your web browser and navigate to `http://localhost:5000` to access the text editor.
