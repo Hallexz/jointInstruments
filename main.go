@@ -6,4 +6,5 @@ import (
 
 func main() {
 	src.StartServer()
+	src.ConnectToMelody()
 }
